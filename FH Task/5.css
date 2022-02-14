@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: navajowhite;
+}
+
+.container{
+    width: 70vw;
+    height: 680px;
+    background-color: white;
+    margin-top: 40px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+button{
+    background-color: red;
+    border: 1px solid red;
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+}
+input{
+    font-size: 24px;
+}
+
+.cont{
+    margin-top: 20px;
+    width: 600px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#sum{
+    margin-top: 10px;
+}

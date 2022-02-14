@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: navajowhite;
+}
+
+.container{
+    width: 60vw;
+    height: 550px;
+    background-color: white;
+    margin-top: 90px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+button{
+    background-color: red;
+    border: 1px solid red;
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+}
+input{
+    font-size: 24px;
+}
